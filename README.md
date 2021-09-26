@@ -44,3 +44,4 @@ These options can take a hour to a few hours to complete depending on your techn
 * Using a CI/CD tool such a Jenkins or CodeBuild, build a CI/CD flow that will monitor your git repository for changes to a docker file, build and push the dockerfile to ECR and deploy it to ECS for testing.
 * This should all be written in IaC and CM code of your choice and placed in the Lvl3 folder under a folder called Option1.
 * Instructions for use and building this solution should be included in the Option2 folder as well.
+# devops-assesment
